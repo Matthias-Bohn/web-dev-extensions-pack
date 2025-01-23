@@ -1,6 +1,6 @@
 {
-  "name": "general-extensions-pack",
-  "displayName": "General Extensions Pack",
+  "name": "web-dev-extensions-pack",
+  "displayName": "Web Development Extensions Pack BY Matthias Bohn",
   "description": "Unlock the full potential of Web development!.",
   "publisher": "MatthiasBohn",
   "author": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Matthias-Bohn/general-extensions-pack"
+    "url": "https://github.com/Matthias-Bohn/web-dev-extensions-pack"
   },
   "icon": "images/icon/logo.jpeg",
   "categories": [
@@ -24,7 +24,7 @@
     "Web development extension pack",
     "Web development"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "xabikos.javascriptsnippets",
     "skyran.js-jsx-snippets",
     "gogocrow.jsx-beautify",

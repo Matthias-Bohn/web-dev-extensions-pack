@@ -1,4 +1,4 @@
-# General Extensions Pack
+# Web Development Extensions Pack
 
 The Enhanced Essentials Pack is a comprehensive collection of extensions designed to enhance and improve the overall usage experience of Visual Studio Code. This power-packed bundle offers a range of essential functionalities and productivity features that cater to the general needs of every VS Code user. With the Enhanced Essentials Pack, you'll have access to a carefully curated selection of extensions that streamline your workflow, boost your productivity, and optimize your coding environment. From advanced code editing tools to useful utility extensions, this pack has you covered.
 
