@@ -1,0 +1,37 @@
+{
+  "name": "general-extensions-pack",
+  "displayName": "General Extensions Pack",
+  "description": "Unlock the full potential of Web development!.",
+  "publisher": "MatthiasBohn",
+  "author": {
+    "name": "Matthias Bohn"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matthias-Bohn/general-extensions-pack"
+  },
+  "icon": "images/icon/logo.jpeg",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "Web dev extensions Pack",
+    "MatthiasBohn",
+    "Web development extension pack",
+    "Web development"
+  ],
+  "extensionPack": [ 
+    "xabikos.javascriptsnippets",
+    "skyran.js-jsx-snippets",
+    "gogocrow.jsx-beautify",
+    "glenn2223.live-sass",
+    "ritwickdey.liveserver",
+    "devsense.phptools-vscode",
+    "devsense.profiler-php-vscode",
+    "pmneo.tsimporter"
+  ]
+}
